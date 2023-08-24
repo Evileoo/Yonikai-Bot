@@ -8,5 +8,5 @@ Bot officiel de la team Yonikai
 [lien](https://github.com/Evileoo/Yonikai-Bot/wiki)
 
 ## Crédits
-Création : @Evileoo_
-Développement : @Evileoo_
+- Création : @Evileoo_
+- Développement : @Evileoo_
